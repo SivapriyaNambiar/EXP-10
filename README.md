@@ -22,8 +22,8 @@ Any changes made to the parameters within the function are directly reflected in
 
 (A) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SIVAPRIYA NAMBIAR
+// PRN - 23070123125
 // EXPERIMENT - 10(A) 
 
 // Printing the values by using callby value 
@@ -51,8 +51,8 @@ int main()
 
 (B) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SIVAPRIYA NAMBIAR
+// PRN - 23070123125
 // EXPERIMENT - 10(B)      
 
 // Swapping the values 
@@ -79,8 +79,8 @@ int main()
 
 (C) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SIVAPRIYA NAMBIAR
+// PRN - 23070123125
 // EXPERIMENT - 10(C)                                                  
 
 // Swapping the values using call by reference  
