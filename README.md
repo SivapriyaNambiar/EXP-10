@@ -1,4 +1,4 @@
-# Experiment---10 
+# EXP-10
 
 ### Aim  
 To study and implement Pointer Operations (Call by value and Call by reference). 
